@@ -5,3 +5,23 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
+
+49157aa (HEAD -> task2.1, origin/task2.1) Task 2.1
+d776aed (task1.2) Task 2.1
+8c653f8 (origin/task1.2) fixed 2 120+words issue
+3e7c1a3 Task 1.2
+873cce7 (origin/main, origin/HEAD, main) Task 1.1
+2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
+b545fe2 clarifying extracted method names in README.md
+:
+
+6c44775 (HEAD -> task2.1) Merge branch 'task2.1' of https://github.com/Nubcoder0118/refactoring into task2.1
+4488605 Task 2.2
+f18a3e9 (origin/task2.1) Merge branch 'main' into task2.1
+49157aa Task 2.1
+d776aed (task1.2) Task 2.1
+8c653f8 (origin/task1.2) fixed 2 120+words issue
+ed6cbaa Merge pull request #2 from Nubcoder0118/task1.2
+3e7c1a3 Task 1.2
+:
