@@ -35,3 +35,12 @@ f18a3e9 Merge branch 'main' into task2.1
 49157aa Task 2.1
 d776aed (task1.2) Task 2.1
 :
+
+ffc6a86 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+2c1a7bc Task 2.3
+30a41f0 Merge pull request #4 from Nubcoder0118/task2.1
+79ba8cf (origin/task2.1, task2.1) Task 2.2
+6c44775 Merge branch 'task2.1' of https://github.com/Nubcoder0118/refactoring into task2.1
+4488605 Task 2.2
+94bcca3 Merge pull request #3 from Nubcoder0118/task2.1
+:
